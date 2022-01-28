@@ -78,7 +78,7 @@ terminado==0.8.3
 testpath==0.4.4
 toml==0.10.1
 toolz==0.10.0
-torch==1.6.0
+torch==1.7.0
 torchvision==0.8.1
 tornado==6.1
 tqdm==4.51.0
